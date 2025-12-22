@@ -31,6 +31,7 @@ I'm a recent Computer Science graduate passionate about creating modern, user-fr
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)" alt="Tailwind" />
 </p>
 
 ### Tools & Technologies
@@ -38,6 +39,7 @@ I'm a recent Computer Science graduate passionate about creating modern, user-fr
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 
@@ -86,7 +88,6 @@ Inspirational quote generator with sharing and favorites functionality.
 ## 🌱 Currently Exploring
 
 - **React Ecosystem:** Hooks, Context API, React Router
-- **Modern JavaScript:** ES6+ features, Async/Await, Modules
 - **Design:** responsive design patterns
 
 
@@ -95,9 +96,10 @@ Inspirational quote generator with sharing and favorites functionality.
 | Skill | Level | Focus Areas |
 |-------|-------|-------------|
 | **HTML/CSS** | Advanced | Responsive Design, CSS Grid, Animations |
-| **JavaScript** | Intermediate | ES6+, DOM Manipulation, APIs |
-| **React** | Learning | Components, State Management, Hooks |
-| **Bootstrap** | Intermediate | Customization, Components, Utilities |
+| **JavaScript** | Advanced | ES6+, DOM Manipulation, APIs |
+| **React** | Intermediate | Components, State Management, Hooks |
+| **Bootstrap** | Advanced | Customization, Components, Utilities |
+| **Tailwind** | Learning | Responsive Drsign |
 | **Git/GitHub** | Intermediate | Branching, PRs, Collaboration |
 
 
