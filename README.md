@@ -1,3 +1,4 @@
+<!-- Header -->
 <div align="center">
 
 # 👋 Hi, I'm Doha Ismail
@@ -7,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/doha-abou-greisha/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:doha3312ismail@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/dohahehe)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Me-purple?style=for-the-badge&logo=vercel)](https://next-portfolio-beryl-xi.vercel.app/)
 
 </div>
 
@@ -95,6 +97,7 @@ A full-featured e-commerce platform with authentication and shopping cart.
 - **Features:** Auth, cart, wishlist, orders, reviews, payments
 - **Repo:** [View Code](https://github.com/dohahehe/FreshCart)
 
+
 ## 🌱 Currently Exploring
 
 - **React Ecosystem:** 
@@ -116,12 +119,12 @@ A full-featured e-commerce platform with authentication and shopping cart.
 | **React** | Advanced | Hooks, Context, Performance |
 | **Next.js** | Intermediate | App Router, Server Components, SSR |
 | **Redux** | Intermediate | Redux Toolkit, RTK Query |
-| **TanStack Query** | Advanced | Caching, Optimistic Updates |
+| **TanStack Query** | Intermediate | Caching, Optimistic Updates |
 | **React Hook Form** | Advanced | Complex forms, Validation |
 | **Zod** | Intermediate | Schema validation, Type inference |
 | **Bootstrap** | Advanced | Customization, Components |
 | **Tailwind** | Advanced | Responsive design, Optimization |
-| **Git/GitHub** | Advanced | Branching, PRs, Collaboration |
+| **Git/GitHub** | Intermediate | Branching, PRs, Collaboration |
 
 
 ## 📫 Let's Connect
@@ -137,6 +140,9 @@ A full-featured e-commerce platform with authentication and shopping cart.
   </a>
   <a href="https://github.com/dohahehe">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://next-portfolio-beryl-xi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Vercel-purple?style=for-the-flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
