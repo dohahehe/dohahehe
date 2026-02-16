@@ -1,4 +1,3 @@
-<!-- Header -->
 <div align="center">
 
 # 👋 Hi, I'm Doha Ismail
@@ -16,7 +15,7 @@
 
 I'm a recent Computer Science graduate passionate about creating modern, user-friendly web applications. I love turning ideas into reality through code and constantly expanding my skills in frontend development.
 
-- 🌱 **Currently Learning:** Advanced React & Modern JavaScript
+- 🌱 **Currently Learning:** Advanced React & TypeScript, Next.js
 - 💡 **Interests:** Web Development, UI/UX Design, Open Source
 - 🎯 **Goals:** Master the React ecosystem and contribute to meaningful projects
 - ⚡ **Fun Fact:** I believe the best code is simple, readable, and maintainable
@@ -29,9 +28,19 @@ I'm a recent Computer Science graduate passionate about creating modern, user-fr
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+</p>
+
+### Form Handling & Validation
+<p>
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
 </p>
 
 ### Tools & Technologies
@@ -41,17 +50,6 @@ I'm a recent Computer Science graduate passionate about creating modern, user-fr
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dohahehe&show_icons=true&theme=default" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dohahehe&layout=compact&theme=default" />
-
-</div>
-
 
 ## 📁 Featured Projects
 
@@ -84,11 +82,28 @@ Inspirational quote generator with sharing and favorites functionality.
 - **Features:** Random quotes, copy to clipboard, social sharing
 - **Repo:** [View Code](https://github.com/dohahehe/Quote-Generator)
 
+### 🛒 FreshCart - E-Commerce Platform
+![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css)
+![NextAuth](https://img.shields.io/badge/NextAuth.js-auth?logo=next.js&color=000000)
+![React Query](https://img.shields.io/badge/React_Query-caching?logo=react-query&color=FF4154)
+![JWT](https://img.shields.io/badge/JWT-token?logo=json-web-tokens&color=000000)
+
+A full-featured e-commerce platform with authentication and shopping cart.
+
+- **Features:** Auth, cart, wishlist, orders, reviews, payments
+- **Repo:** [View Code](https://github.com/dohahehe/FreshCart)
 
 ## 🌱 Currently Exploring
 
-- **React Ecosystem:** Hooks, Context API, React Router
-- **Design:** responsive design patterns
+- **React Ecosystem:** 
+  - Next.js App Router & Server Components
+  - Redux Toolkit & RTK Query
+  - TanStack Query for server state
+  - React Hook Form with Zod validation
+- **TypeScript:** Advanced types, generics, type safety
+- **Design:** Responsive patterns, component libraries
 
 
 ## 📈 Learning Progress
@@ -97,10 +112,16 @@ Inspirational quote generator with sharing and favorites functionality.
 |-------|-------|-------------|
 | **HTML/CSS** | Advanced | Responsive Design, CSS Grid, Animations |
 | **JavaScript** | Advanced | ES6+, DOM Manipulation, APIs |
-| **React** | Intermediate | Components, State Management, Hooks |
-| **Bootstrap** | Advanced | Customization, Components, Utilities |
-| **Tailwind** | Learning | Responsive Drsign |
-| **Git/GitHub** | Intermediate | Branching, PRs, Collaboration |
+| **TypeScript** | Intermediate | Types, Interfaces, Generics |
+| **React** | Advanced | Hooks, Context, Performance |
+| **Next.js** | Intermediate | App Router, Server Components, SSR |
+| **Redux** | Intermediate | Redux Toolkit, RTK Query |
+| **TanStack Query** | Advanced | Caching, Optimistic Updates |
+| **React Hook Form** | Advanced | Complex forms, Validation |
+| **Zod** | Intermediate | Schema validation, Type inference |
+| **Bootstrap** | Advanced | Customization, Components |
+| **Tailwind** | Advanced | Responsive design, Optimization |
+| **Git/GitHub** | Advanced | Branching, PRs, Collaboration |
 
 
 ## 📫 Let's Connect
@@ -126,6 +147,6 @@ Inspirational quote generator with sharing and favorites functionality.
 
 ⭐ **Always open to collaboration and learning new things!**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=dohahehe&color=orange)
+<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=dohahehe&color=orange) -->
 
 </div>
